@@ -38,3 +38,23 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 ## Touch controls
 
 The pad and buttons sit below the game screen: the pad walks and moves the menu cursor, A confirms, B goes back.
+
+## Changelog
+
+
+
+### 0.1.0.1 - 2026-11-22
+
+The first playable slice of Geneweaver.
+
+- Pick your starter and set out across 7 towns, each with a healing centre, a shop, a gym and its own catch zone.
+- 12 routes between the towns change every time you set foot on one: wild creatures, trainers or a market. Once you start a route, you finish it.
+- Battles are blind picks: Attack, Block, Magic, Heal or Debuff. Every pick beats two and loses to two, and the faster creature gets a hint about what its rival did NOT choose.
+- Five types, each strong against two and weak against two. Traits give every creature its own strengths and weaknesses.
+- Catch creatures with the Capture Cube. Toss a food first to stop them running, keep them from fainting, or make them easier to catch. Lures bring the types you want.
+- XP is shared by your whole team, and every level you place one stat point yourself.
+- Merge two creatures at the Loom in Fusionville. The child looks like its parents, in order, so every merge is its own creature.
+- The Shuttle Pad keeps a record of every creature you have met.
+- 35 gym badges: 7 gyms, each beaten 5 times as they grow stronger.
+- Chiptune music and sound, saves, and a handheld-console look with 6 styles in Options.
+- Play with keyboard, gamepad, mouse or touch. On phones the console stands upright.

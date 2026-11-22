@@ -43,6 +43,16 @@ The pad and buttons sit below the game screen: the pad walks and moves the menu 
 
 
 
+### 0.1.1.1 - 2026-11-22
+
+- Hold B to run.
+- A local in every town with tips, and Dr. Hollis in Homestead.
+- Grass and paths are easier to tell apart.
+- At the top of a route you can leave from either lane.
+- The game saves when you leave the app while in a town.
+- Battles rebalanced: stats, traits and type advantage retuned from 100,000 simulated fights; no single stat or trait is the best pick.
+- Levelling is twice as fast.
+
 ### 0.1.0.1 - 2026-11-22
 
 The first playable slice of Geneweaver.

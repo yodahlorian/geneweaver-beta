@@ -43,6 +43,10 @@ The pad and buttons sit below the game screen: the pad walks and moves the menu 
 
 
 
+### 0.1.2.1 - 2026-11-22
+
+- Trainers and gym leaders now appear at the start of their battles.
+
 ### 0.1.1.1 - 2026-11-22
 
 - Hold B to run.

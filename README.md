@@ -1,4 +1,4 @@
-# Geneweaver — iPhone beta
+# Geneweaver - iPhone beta
 
 **Catch them. Merge them. Weave your own.**
 
@@ -15,22 +15,22 @@ Beta by **Devious Developments**.
 
 ## Install with AltStore (updates itself)
 
-1. In **AltStore** → **Sources** → **+**, add this source:
+1. In **AltStore** -> **Sources** -> **+**, add this source:
    `https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/source.json`
-2. Open **Devious Developments** → **Geneweaver** → **Free / Get**. New betas show up as updates.
+2. Open **Devious Developments** -> **Geneweaver** -> **Free / Get**. New betas show up as updates.
 
 ## Or SideStore (refreshes anywhere, no computer after setup)
 
-Add the same source in **[SideStore](https://sidestore.io)** → Sources → +. It works exactly like AltStore.
+Add the same source in **[SideStore](https://sidestore.io)** -> Sources -> +. It works exactly like AltStore.
 
 ## Or Sideloadly (Windows / macOS)
 
 1. Install **[Sideloadly](https://sideloadly.io)** on your computer (Windows also needs iTunes from apple.com, not the Microsoft Store).
-2. Download the newest `Geneweaver-<version>.ipa` from **[Releases → Latest](../../releases/latest)**.
+2. Download the newest `Geneweaver-<version>.ipa` from **[Releases -> Latest](../../releases/latest)**.
 3. Plug your iPhone in with a cable, unlock it and tap **Trust** if it asks.
 4. Open Sideloadly, drag the `.ipa` onto it, enter your Apple ID and press **Start**.
-5. On the phone: **Settings → General → VPN & Device Management** → tap your Apple ID → **Trust**.
-6. iOS 16 and newer: **Settings → Privacy & Security → Developer Mode** → on (the phone restarts).
+5. On the phone: **Settings -> General -> VPN & Device Management** -> tap your Apple ID -> **Trust**.
+6. iOS 16 and newer: **Settings -> Privacy & Security -> Developer Mode** -> on (the phone restarts).
 7. Open Geneweaver and play in portrait. To update, repeat steps 2–4 with the new `.ipa`.
 
 A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta replaces the file (one release, one file).

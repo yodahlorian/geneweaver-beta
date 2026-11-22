@@ -1,5 +1,5 @@
 {
- "retired": 4,
+ "retired": 8,
  "history": [
   {
    "asset": "Geneweaver-0.1.0.1.ipa",
@@ -20,6 +20,16 @@
    "asset": "Geneweaver-0.1.1.1.apk",
    "downloads": 0,
    "retired": "2026-11-22 02:23:25"
+  },
+  {
+   "asset": "Geneweaver-0.1.2.1.ipa",
+   "downloads": 2,
+   "retired": "2026-11-22 18:19:38"
+  },
+  {
+   "asset": "Geneweaver-0.1.2.1.apk",
+   "downloads": 2,
+   "retired": "2026-11-22 18:19:38"
   }
  ],
  "note": "downloads of betas whose release was replaced (AltStore + direct)"

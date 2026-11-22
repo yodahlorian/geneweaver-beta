@@ -43,6 +43,21 @@ The pad and buttons sit below the game screen: the pad walks and moves the menu 
 
 
 
+### 0.2.0.1 - 2026-11-22
+
+- A new opening: Dr. Hollis's lab, five pedestals, look at each creature before you choose your partner.
+- Redrawn people (player, Dr. Hollis, trainers) with a proper walk.
+- Creature fronts drawn at full size, no floating parts.
+- New Midnight Neon shell is the default; bigger screen, smoother D-pad.
+- Towns in full colour: three-quarter-view buildings, even doors, atomic-age roofs.
+- Buildings carry emblems instead of names: caduceus (heal), flask (lab), money bag (shop), fist (gym), helix (Loom).
+- Every menu fits its box; the world map marks where you are with a red dot.
+- The Loom shows the child's stat shape against both parents, its types, tier, cap and traits.
+- A full stats screen: your own placed points in gold, trait bonuses in green and drawbacks in red, type matchups, lineage.
+- Healing happens inside the Restore Center: the medic loads your cubes and the machine solves them back to health.
+- New capture animation: the cube bursts on the creature, closes around it and solves itself in its colour.
+- A new game emblem and app icon.
+
 ### 0.1.2.1 - 2026-11-22
 
 - Trainers and gym leaders now appear at the start of their battles.

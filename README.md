@@ -43,6 +43,10 @@ The pad and buttons sit below the game screen: the pad walks and moves the menu 
 
 
 
+### 0.2.1.1 - 2026-11-22
+
+- Phones: SELECT and START are much easier to tap (their touch areas now cover the pill and its label).
+
 ### 0.2.0.1 - 2026-11-22
 
 - A new opening: Dr. Hollis's lab, five pedestals, look at each creature before you choose your partner.

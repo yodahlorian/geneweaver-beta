@@ -43,6 +43,10 @@ The pad and buttons sit below the game screen: the pad walks and moves the menu 
 
 
 
+### 0.2.2.1 - 2026-11-22
+
+- A hidden cheat menu for testing. Off every time the game starts.
+
 ### 0.2.1.1 - 2026-11-22
 
 - Phones: SELECT and START are much easier to tap (their touch areas now cover the pill and its label).
